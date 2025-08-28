@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "5e213c2e758e41b0bd5900d7e8d67bde"
+	name: "TheRealJudgeJudy#5e213c2e"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		07DAFE773DDBAF28: 4072
+		30AAE4195248A5E7: 28293
+	}
+	started: {
+		30AAE4195248A5E7: 1755735166934L
+		0000000000000001: 1755735166934L
+		1DAFA16DACE341E9: 1755735166934L
+		3E5E175DD327839E: 1755735166934L
+		07DAFE773DDBAF28: 1755735252341L
+		1793D9CDA5CB10C7: 1755735252341L
+	}
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

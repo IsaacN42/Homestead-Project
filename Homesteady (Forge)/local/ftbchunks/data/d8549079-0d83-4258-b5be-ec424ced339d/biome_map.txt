@@ -1,0 +1,13 @@
+#7E7 biomeswevegone:allium_shrubland
+#3F4 biomeswevegone:aspen_boreal
+#5FC biomeswevegone:basalt_barrera
+#3DE minecraft:deep_ocean
+#010 minecraft:forest
+#2D3 biomeswevegone:forgotten_forest
+#286 minecraft:grove
+#4F1 minecraft:ocean
+#1DF minecraft:old_growth_birch_forest
+#0BC biomeswevegone:orchard
+#5FF minecraft:river
+#51A minecraft:stony_shore
+#3BC biomeswevegone:weeping_witch_forest

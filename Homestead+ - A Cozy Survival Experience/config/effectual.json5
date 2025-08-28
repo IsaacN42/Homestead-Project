@@ -1,0 +1,20 @@
+{
+	"mouthSteam": false,
+	"dynamicBreathSpeed": false,
+	"bubbleBreath": false,
+	"bubbleChests": false,
+	"bubblePots": false,
+	"waterDrip": true,
+	"steamEffect": false,
+	"blockPlaceEffect": true,
+	"fireImprovements": true,
+	"campfireImprovements": true,
+	"lanternImprovements": true,
+	"metalHitSparks": true,
+	"caveDust": false,
+	"caveDustFrequency": 13,
+	"fireflyEffect": false,
+	"fireflySpawnRate": 5,
+	"runDust": false,
+	"minecartSparks": true
+}

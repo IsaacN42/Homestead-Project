@@ -1,0 +1,8 @@
+{
+  "normalHeartColor": "#FF0000",
+  "extraHeartColor": "#FFFF00",
+  "particlesPerHeart": 16,
+  "gravityStrength": 0.04,
+  "initialVelocity": 1.0,
+  "fadeSpeed": 1.0
+}

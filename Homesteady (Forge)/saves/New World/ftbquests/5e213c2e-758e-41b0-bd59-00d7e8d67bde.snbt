@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5e213c2e758e41b0bd5900d7e8d67bde"
+	name: "TheRealJudgeJudy#5e213c2e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "5e213c2e-758e-41b0-bd59-00d7e8d67bde"
+	type: "player"
+	player_name: "TheRealJudgeJudy"
+	ranks: {
+		5e213c2e-758e-41b0-bd59-00d7e8d67bde: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "TheRealJudgeJudy"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF597D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

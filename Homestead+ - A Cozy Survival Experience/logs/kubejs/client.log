@@ -1,0 +1,13 @@
+[20:27:49] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[20:27:49] [INIT] Loaded plugins:
+[20:27:49] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[20:27:49] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[20:27:49] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[20:27:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[20:27:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[20:27:49] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[20:27:49] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[20:27:49] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[20:27:49] [INFO] Loaded script client_scripts:example.js in 0.001 s
+[20:27:49] [INFO] Loaded 1/1 KubeJS client scripts in 0.013 s with 0 errors and 0 warnings
+[20:28:11] [INFO] Client resource reload complete!

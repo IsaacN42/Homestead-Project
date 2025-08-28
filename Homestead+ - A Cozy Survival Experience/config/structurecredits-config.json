@@ -1,0 +1,42 @@
+{
+  "active": true,
+  "showOnlyOneTime": true,
+  "chatMessage": false,
+  "showCreator": true,
+  "customStructureName": {
+    "minecraft:swamp_hut": "a_cat:cat_hut"
+  },
+  "dontShowAll": [
+    "minecraft:",
+    "dimdungeons:"
+  ],
+  "dontShow": [
+    "minecraft:plains_village",
+    "minecraft:desert_village",
+    "nova_structures:wild_ruin",
+    "repurposed_structures:mineshaft_ocean",
+    "biomeswevegone:lush_arch",
+    "nova_structures:underground_house",
+    "betterdungeons:spider_dungeon",
+    "nova_structures:illager_camp",
+    "underground_rooms:wine_cellar",
+    "qrafty:bunker",
+    "bettermineshafts:mineshaft_overgrown",
+    "qrafty:exogino",
+    "betterstrongholds:stronghold",
+    "nova_structures:badlands_miner_outpost",
+    "repurposed_structures:village_dark_forest",
+    "biomeswevegone:dripstone_arch",
+    "bettermineshafts:mineshaft_oak",
+    "bettermineshafts:mineshaft_acacia",
+    "meadow:logging_camp",
+    "nova_structures:ruin_town",
+    "nova_structures:tavern_oak",
+    "bettermineshafts:mineshaft_spruce_snowy",
+    "bettermineshafts:mineshaft_spruce",
+    "towns_and_towers:village_meadow",
+    "repurposed_structures:igloo_grassy",
+    "qrafty:plains",
+    "towns_and_towers:village_birch_forest"
+  ]
+}

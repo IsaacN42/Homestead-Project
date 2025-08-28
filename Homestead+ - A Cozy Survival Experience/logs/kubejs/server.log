@@ -1,0 +1,19 @@
+[19:12:23] [INIT] KubeJS 2001.6.5-build.16; MC 2001 fabric
+[19:12:23] [INIT] Loaded plugins:
+[19:12:23] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricPlugin
+[19:12:23] [INIT] - dev.latvian.mods.kubejs.fabric.BuiltinKubeJSFabricClientPlugin
+[19:12:23] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[19:12:23] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[19:12:23] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[19:12:23] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[19:12:23] [INIT] - mod.chloeprime.aaaparticles.common.compat.kubejs.AAAParticleKubeJSPlugin
+[19:12:23] [INFO] Loaded script server_scripts:amethyst.js in 0.0 s
+[19:12:23] [INFO] Loaded script server_scripts:flour.js in 0.001 s
+[19:12:23] [INFO] Loaded script server_scripts:furnace_fix.js in 0.0 s
+[19:12:23] [INFO] Loaded script server_scripts:resin.js in 0.001 s
+[19:12:23] [INFO] Loaded 4/4 KubeJS server scripts in 0.007 s with 0 errors and 0 warnings
+[19:12:23] [INFO] Scripts loaded
+[19:12:23] [INFO] Initializing recipe event...
+[19:12:23] [WARN] Due to the way Minecraft resource loading works, KubeJS' server.log may not contain everything that happened in your server scripts on initial world creation.
+[19:12:23] [WARN] You can still see the full log (including past reloads) in your latest.log file.
+[19:12:31] [INFO] Server resource reload complete!

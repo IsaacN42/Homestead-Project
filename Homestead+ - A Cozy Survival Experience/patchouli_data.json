@@ -1,0 +1,13 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "patchouli:welcome": {
+      "viewedEntries": [
+        "patchouli:welcome/welcome"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "favorites": [
+    {
+      "stack": "item:create:andesite_alloy",
+      "recipe": "create:crafting/materials/andesite_alloy"
+    },
+    {
+      "stack": "item:create:crushing_wheel"
+    },
+    {
+      "stack": "item:create:mechanical_crafter"
+    },
+    {
+      "stack": "item:create:electron_tube",
+      "recipe": "create:crafting/materials/electron_tube"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "create:item_vault",
+        "amount": 2
+      },
+      "recipe": "crafttweaker:vault"
+    },
+    {
+      "stack": "item:create:fluid_tank"
+    },
+    {
+      "stack": "item:create:mechanical_pump"
+    },
+    {
+      "stack": "item:create:sail_frame"
+    },
+    {
+      "stack": "item:minecraft:hopper"
+    },
+    {
+      "stack": "item:create:stockpile_switch",
+      "recipe": "create:crafting/logistics/stockpile_switch"
+    }
+  ],
+  "lookup_history": [
+    "item:minecraft:barrel",
+    {
+      "type": "item",
+      "id": "create:item_vault",
+      "amount": 2
+    },
+    "item:minecraft:furnace",
+    "item:create:rose_quartz",
+    "item:create:polished_rose_quartz",
+    "item:create:electron_tube",
+    "item:create:water_wheel",
+    "item:create:large_water_wheel",
+    "item:create:mechanical_crafter",
+    "item:create:crushing_wheel",
+    "item:minecraft:hopper",
+    "item:create:cart_assembler",
+    "item:create:stockpile_switch",
+    {
+      "type": "item",
+      "id": "create:shaft",
+      "amount": 3
+    },
+    "item:create:copper_sheet",
+    "item:create:fluid_tank",
+    "item:create:mechanical_press",
+    "item:sophisticatedbackpacks:stack_upgrade_starter_tier",
+    "item:sophisticatedbackpacks:upgrade_base",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_4",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_3",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_2",
+    "item:sophisticatedbackpacks:stack_upgrade_tier_1",
+    "item:vc_gliders:paraglider_iron{Damage:0}",
+    "item:vc_gliders:paraglider_gold{Damage:0}",
+    "item:sophisticatedbackpacks:backpack",
+    "item:sophisticatedbackpacks:backpack{borderColor:2895973,clothColor:12439408}",
+    "item:sophisticatedbackpacks:backpack{borderColor:1908001,clothColor:1908001}",
+    "item:sophisticatedbackpacks:copper_backpack",
+    "item:sophisticatedbackpacks:iron_backpack",
+    "item:spelunkery:diamond_grindstone",
+    "item:minecraft:polished_deepslate",
+    "item:minecraft:polished_deepslate_slab",
+    {
+      "type": "item",
+      "id": "spelunkery:rough_diamond",
+      "amount": 50
+    },
+    "item:minecraft:white_wool",
+    {
+      "type": "item",
+      "id": "spelunkery:rough_cinnabar",
+      "amount": 45
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:rough_cinnabar_shard",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "minecraft:grindstone",
+      "remainder": "item:minecraft:grindstone"
+    },
+    "item:minecraft:quartz",
+    {
+      "type": "item",
+      "id": "minecraft:raw_iron",
+      "amount": 22
+    },
+    {
+      "type": "item",
+      "id": "spelunkery:raw_iron_nugget",
+      "amount": 35
+    },
+    "item:create:iron_sheet",
+    "item:toms_storage:ts.storage_terminal",
+    "item:create:andesite_alloy",
+    {
+      "type": "item",
+      "id": "meadow:pine_slab",
+      "amount": 6
+    },
+    "item:meadow:pine_planks"
+  ],
+  "craft_history": [
+    "spelunkery:raw_gold",
+    "crafttweaker:vault",
+    "minecraft:barrel",
+    "minecraft:oak_planks",
+    "minecraft:oak_slab",
+    "minecraft:hopper",
+    "create:crafting/kinetics/large_cogwheel_from_little",
+    "minecraft:bucket",
+    "twigs:stick_from_twig",
+    "create:crafting/kinetics/large_water_wheel",
+    "create:crafting/kinetics/water_wheel",
+    "minecraft:rail",
+    "minecraft:minecart",
+    "minecraft:lever",
+    "minecraft:chest",
+    "create:crafting/kinetics/cart_assembler",
+    "create:crafting/kinetics/large_cogwheel",
+    "create:crafting/kinetics/cogwheel",
+    "create:crafting/kinetics/shaft",
+    "create:crafting/kinetics/mechanical_press",
+    "candlelight:oak_table",
+    "minecraft:bread",
+    "minecraft:wheat",
+    "crafttweaker:stack_upgrade_gold",
+    "crafttweaker:stack_upgrade_iron",
+    "crafttweaker:stack_upgrade_starter",
+    "sophisticatedbackpacks:upgrade_base",
+    "sophisticatedbackpacks:diamond_backpack",
+    "sophisticatedbackpacks:gold_backpack",
+    "sophisticatedbackpacks:iron_backpack",
+    "sophisticatedbackpacks:backpack",
+    "minecraft:birch_planks",
+    "minecraft:diamond_sword",
+    "minecraft:diamond_pickaxe",
+    "minecraft:diamond_helmet",
+    "minecraft:diamond_boots",
+    "minecraft:diamond_leggings",
+    "minecraft:diamond_chestplate",
+    "spelunkery:rough_lazurite_from_shard",
+    "spelunkery:raw_iron",
+    "spelunkery:raw_zinc",
+    "spelunkery:rough_diamond_shard",
+    "spelunkery:rough_diamond_from_shard",
+    "spelunkery:rough_cinnabar_from_shard",
+    "minecraft:redstone_block",
+    "spelunkery:diamond_grindstone",
+    "minecraft:polished_deepslate_slab",
+    "minecraft:polished_deepslate",
+    "spelunkery:rough_diamond_from_block",
+    "peacefulmobdrops:wool_from_string",
+    "minecraft:iron_pickaxe",
+    "minecraft:grindstone",
+    "minecraft:stone_slab",
+    "twigs:cobblestone_from_pebble",
+    "minecraft:cobblestone_stairs",
+    "minecraft:iron_block",
+    "create:crafting/materials/andesite_alloy",
+    "minecraft:iron_nugget",
+    "minecraft:iron_helmet",
+    "minecraft:iron_boots",
+    "minecraft:iron_leggings",
+    "minecraft:iron_chestplate",
+    "minecraft:birch_stairs",
+    "minecraft:stone_sword",
+    "minecraft:cobbled_deepslate_stairs",
+    "minecraft:stick",
+    "minecraft:iron_ingot_from_nuggets",
+    "meadow:pine_slab",
+    "meadow:pine_door",
+    "meadow:pine_planks",
+    "minecraft:stone_axe",
+    "minecraft:stone_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "minecraft:wooden_axe",
+    "elytratrims:patterns",
+    "minecraft:crafting_table",
+    "minecraft:oak_wood",
+    "minecraft:acacia_planks",
+    "minecraft:spruce_planks"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}
