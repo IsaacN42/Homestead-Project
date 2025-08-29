@@ -54,9 +54,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
-  },
   "jadeaddons.create": {
     "filter": true,
     "backtank_capacity": true,
@@ -67,9 +64,6 @@
     "goggles.detailed": false,
     "placard": true
   },
-  "supplementaries": {
-    "hat_stand": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -78,23 +72,10 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "dynamictrees": {
-    "rooty_water": true,
-    "pod": true,
-    "fruit": true,
-    "rooty": true,
-    "branch": true
-  },
   "apotheosis": {
     "adventure": true,
     "ench": true,
     "spawner": true
-  },
-  "waystones": {
-    "waystone": true
-  },
-  "gravestone": {
-    "grave": true
   },
   "balm": {
     "jade": true
@@ -110,6 +91,28 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "dynamictrees": {
+    "rooty_water": true,
+    "pod": true,
+    "fruit": true,
+    "rooty": true,
+    "branch": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "gravestone": {
+    "grave": true
   },
   "storagedrawers": {
     "display.stacklimit": true,
